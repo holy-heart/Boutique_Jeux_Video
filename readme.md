@@ -8,6 +8,7 @@ Ce projet a pour but de modéliser, générer, manipuler et comparer une base de
 
 L'objectif est de modéliser la structure relationnelle du projet en définissant les entités clés (Client, Jeu, Achat, Éditeur, Panier, Paiement, etc.), leurs relations, attributs, cardinalités et contraintes (clés primaires, étrangères, uniques, index).
 
+![Diagramme UML](1_diagram.png)
 
 ---
 
